@@ -1,8 +1,0 @@
-# Create vector
-data <- c(5,10,15,20)
-
-# Plot
-plot(data, type="o")
-
-# View data
-print(data)
